@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\bin\Debug\LoginPaneliOlusturma.exe.config
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\bin\Debug\LoginPaneliOlusturma.exe
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\bin\Debug\LoginPaneliOlusturma.pdb
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.Properties.Resources.resources
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.exe
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.pdb
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\LoginPaneliOlusturma\LoginPaneliOlusturma\obj\Debug\LoginPaneliOlusturma.OnlineDersGirisPaneli.resources
