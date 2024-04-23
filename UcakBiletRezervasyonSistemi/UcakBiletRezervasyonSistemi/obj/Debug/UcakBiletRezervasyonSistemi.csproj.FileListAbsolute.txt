@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\bin\Debug\UcakBiletRezervasyonSistemi.exe.config
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\bin\Debug\UcakBiletRezervasyonSistemi.exe
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\bin\Debug\UcakBiletRezervasyonSistemi.pdb
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.Form1.resources
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.Properties.Resources.resources
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.exe
+C:\Users\Asus\Desktop\C# Programlama\.GitHub\UcakBiletRezervasyonSistemi\UcakBiletRezervasyonSistemi\obj\Debug\UcakBiletRezervasyonSistemi.pdb
